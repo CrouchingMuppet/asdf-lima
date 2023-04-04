@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+echo 'Basic usage:
+
+    asdf install lima latest
+    asdf global lima latest
+    limactl start
+'
