@@ -16,6 +16,7 @@
 
 # Dependencies
 
+- `qemu-img`: [QEMU disk image utility](https://manpages.ubuntu.com/manpages/focal/man1/qemu-img.1.html)
 - `bash`, `curl`: generic POSIX utilities.
 
 # Install
