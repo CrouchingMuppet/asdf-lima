@@ -38,6 +38,9 @@ Lima via mise:
 # Show all installable versions
 mise list-all lima
 
+# Install latest version
+mise install lima@latest
+
 # Set a version globally (on your ~/.tool-versions file)
 mise global lima latest
 
